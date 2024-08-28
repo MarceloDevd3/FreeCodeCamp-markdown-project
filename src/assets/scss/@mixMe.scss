@@ -1,0 +1,8 @@
+
+@mixin text-align($a) {
+  text-align: $a;
+}
+
+@mixin font-size($size) {
+    font-size: $size;
+}
